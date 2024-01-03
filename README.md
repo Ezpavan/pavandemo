@@ -1,4 +1,4 @@
 # pavandemo
 firstrepository.
 <br>
-author pavan chandel
+Author Pavan Singh Chandel
